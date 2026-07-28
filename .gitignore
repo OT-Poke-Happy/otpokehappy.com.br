@@ -1,0 +1,9 @@
+# Ignore generated client packages
+*.apk
+*.zip
+*.idsig
+
+# Ignore decompiled folders
+client/original_unpacked/
+client/mobile_unpacked/
+client/client_desktop/
